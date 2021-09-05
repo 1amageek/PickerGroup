@@ -1,7 +1,9 @@
+
 # PickerGroup
 
 Multi-picker for iOS and Mac available in Swift UI
 
+![スクリーンショット 2021-09-05 17 04 11](https://user-images.githubusercontent.com/11146538/132120011-975bc1ad-7210-4e36-aeed-6fa1c24053e9.png)
 
 ```swift
         VStack {
